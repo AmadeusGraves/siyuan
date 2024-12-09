@@ -780,7 +780,7 @@
   "insertImgURL": "Insertar enlace de imagen",
   "insertIframeURL": "Insertar enlace IFrame",
   "context": "Contexto",
-  "dockTip": "\nClic para <span class='ft__on-surface ft__nowrap'>Abrir/Minimizar</span>\nClic derecho para arrastrar <span class='ft__on-surface ft__nowrap'>Ajustar posición</span>",
+  "dockTip": "\nClic para <span class='ft__on-surface ft__nowrap'>Abrir/Minimizar</span>\nClic derecho para <span class='ft__on-surface ft__nowrap'>Ajustar posición</span>",
   "shadow": "Sombra",
   "hollow": "Hueco",
   "attrValue1": "Dejar el valor del atributo en blanco eliminará automáticamente el atributo",
